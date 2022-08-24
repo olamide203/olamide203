@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Olamide Atitebi</h1>
-<h4 align="center">A passionate web developer from Nigeria. I love contributing to open-source</h4>
+<h3 align="center">A passionate web developer from Nigeria. I love contributing to open-source</h3>
 <p>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=olamide203&label=Profile%20views&color=0e75b6&style=flat" alt="olamide203" /> </span>
+<span> <img src="https://komarev.com/ghpvc/?username=olamide203&label=Profile%20views&color=0e75b6&style=flat" alt="olamide203" /> </span>
 
-<span align="left"> <a href="https://twitter.com/olamide_farouq" target="blank"><img src="https://img.shields.io/twitter/follow/olamide_farouq?logo=twitter&style=for-the-badge" alt="olamide_farouq" /></a> </span>
+<span> <a href="https://twitter.com/olamide_farouq" target="blank"><img src="https://img.shields.io/twitter/follow/olamide_farouq?logo=twitter&style=for-the-badge" alt="olamide_farouq" /></a> </span>
 </p>
 
 
