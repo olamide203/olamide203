@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Olamide Atitebi</h1>
+## Hi, I'm Olamide
 <p align="center">A passionate full stack web developer. I love learning about new technologies and contributing to open-source</p>
 <p align="center">
 <span> <img src="https://komarev.com/ghpvc/?username=olamide203&label=Profile%20views&color=0e75b6&style=for-the-badge&labelColor=CE4630" alt="olamide203" /> </span> 
