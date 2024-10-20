@@ -25,15 +25,6 @@
 [<img src="https://img.shields.io/badge/olamide-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/olamide-farouq/) [<img src = "https://img.shields.io/badge/olamide-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/olamide_farouq) [<img src = "https://img.shields.io/badge/olamide-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/olamide_farouq/)
 
 
-<table>
-  <tr>
-   <td>
-      <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olamide203&show_icons=true&locale=en&layout=compact" alt="olamide203" /></p>
-   </td>
-   <td>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olamide203&" alt="olamide203" /></p>
-   </td>
-  </tr>
-</table>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olamide203&" alt="olamide203" /></p>
+  
 
